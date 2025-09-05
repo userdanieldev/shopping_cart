@@ -7,7 +7,8 @@
 Este projeto simula um carrinho de compras em PHP puro, aplicando boas práticas de programação como **PSR-12**, **KISS** e **DRY**.  
 O objetivo é praticar organização de código e regras de negócio simples, simulando o fluxo de checkout de um e-commerce.  
 
-##Como rodar o projeto:
+## Como rodar o projeto
+adcicionar explicação de instalação e execução do projeto
 
 ## Funcionalidades
 **addItem:** Valida se produto existe na lista de produtos, e se há quantidade no estoque disponivel, caso sim para ambas as condições adiciona a quantidade de produtos ao carrinho 
