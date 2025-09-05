@@ -21,5 +21,5 @@ adcicionar explicação de instalação e execução do projeto
 
 **applyDiscount** Aplica desconto de 10% no total da compra ao inserir o cupom "DESCONTO10"
 
-##Casos de Teste:
+## Casos de Teste:
 
