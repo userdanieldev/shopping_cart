@@ -104,7 +104,3 @@ shopping_cart/
 | + decreaseStock() |
 +-------------------+
 ```
-
----
-
-📖 Esse README documenta tanto a **execução** quanto a **qualidade do código**, servindo como guia para manutenção e futuras melhorias.  
